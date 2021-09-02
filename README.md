@@ -6,7 +6,7 @@ Overview
 [Sejoon Oh](https://sejoonoh.github.io/), [Sungchul Kim](https://sites.google.com/site/subright/), [Ryan A. Rossi](http://ryanrossi.com/), and [Srijan Kumar](https://www.cc.gatech.edu/~srijan/)  
 *[ACM International Conference on Information and Knowledge Management (CIKM)](https://www.cikm2021.org/), 2021*  
 
-[[Link to the paper](https://github.com/srijankr/DAIN)], [[Offical Page](https://github.com/srijankr/DAIN)]
+[[Link to the paper](https://arxiv.org/pdf/2108.10248.pdf)], [[Offical Page](https://github.com/srijankr/DAIN)]
 
 **DAIN** is a novel influence-guided data augmentation framework for enhancing the accuracy of neural tensor completion.  
 You can predict missing values of tensors (or multi-dimensional data) more accurately with our data augmentation tool **DAIN**.  
