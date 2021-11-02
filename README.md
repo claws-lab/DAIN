@@ -10,6 +10,17 @@ Overview
 
 **DAIN** is an influence-guided data augmentation framework for enhancing the accuracy of neural tensor completion. You can predict missing values of tensors (or multi-dimensional data) more accurately with DAIN. It finds high-quality data augmentation by combining important entities from each dimension via influence functions. To apply DAIN to your model, you can adjust your model to DAIN by saving model gradients (please see the src/model.py and src/main.py to see how to do this).  
 
+If you make use of this code, paper, or the datasets in your work, please cite the following paper:
+```
+ @inproceedings{oh2021influence,
+	title={Influence-guided Data Augmentation for Neural Tensor Completion},
+	author={Oh, Sejoon and Kim, Sungchul and Rossi, Ryan and Kumar, Srijan},
+	booktitle={Proceedings of the 30th ACM International Conference on Information and Knowledge Management},
+	year={2021},
+	organization={ACM}
+ }
+```
+
 Usage
 ---------------
 
