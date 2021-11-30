@@ -7,6 +7,7 @@ Overview
 *[ACM International Conference on Information and Knowledge Management (CIKM)](https://www.cikm2021.org/), 2021*  
 
 [[Link to the paper PDF](https://arxiv.org/pdf/2108.10248.pdf)]
+
 [[Link to video](https://youtu.be/QbFAYk_Sbm0)]
 
 **DAIN** is an influence-guided data augmentation framework for enhancing the accuracy of neural tensor completion. You can predict missing values of tensors (or multi-dimensional data) more accurately with DAIN. It finds high-quality data augmentation by combining important entities from each dimension via influence functions. To apply DAIN to your model, you can adjust your model to DAIN by saving model gradients (please see the src/model.py and src/main.py to see how to do this).  
